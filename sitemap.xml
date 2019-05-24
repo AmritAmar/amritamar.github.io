@@ -3,6 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://AmritAmar.github.io/archive/slider/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/hero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/accomplishments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/featured/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/archive/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://AmritAmar.github.io/authors/admin/</loc>
   </url>
   
@@ -20,6 +72,11 @@
   </url>
   
   <url>
+    <loc>https://AmritAmar.github.io/archive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://AmritAmar.github.io/authors/</loc>
     <priority>0</priority>
   </url>
@@ -30,20 +87,8 @@
   </url>
   
   <url>
-    <loc>https://AmritAmar.github.io/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://AmritAmar.github.io/publication_types/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AmritAmar.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://AmritAmar.github.io/talk/</loc>
   </url>
   
   <url>

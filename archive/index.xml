@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on AMRIT AMAR</title>
+    <link>https://AmritAmar.github.io/archive/</link>
+    <description>Recent content in Archives on AMRIT AMAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://AmritAmar.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://AmritAmar.github.io/archive/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://AmritAmar.github.io/archive/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/hero/</guid>
+      <description>The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)
+Build Anything with Widgets
+Star</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://AmritAmar.github.io/archive/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://AmritAmar.github.io/archive/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://AmritAmar.github.io/archive/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://AmritAmar.github.io/archive/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://AmritAmar.github.io/archive/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://AmritAmar.github.io/archive/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://AmritAmar.github.io/archive/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://AmritAmar.github.io/archive/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Kickstart</title>
+      <link>https://AmritAmar.github.io/archive/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/demo/</guid>
+      <description>Welcome to the Academic Kickstart template!
+Follow our Getting Started and Page Builder guides to easily personalize the template and then add your own content.
+For inspiration, check out the Markdown files which power the personal demo. The easiest way to publish your new site to the internet is with Netlify.
+ View the documentation Ask a question Request a feature or report a bug Updating? View the Update Guide and Release Notes Support development of Academic:  Donate a coffee Become a backer on Patreon Decorate your laptop or journal with an Academic sticker Wear the T-shirt    This homepage section is an example of adding elements to the Blank widget.</description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://AmritAmar.github.io/archive/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://AmritAmar.github.io/archive/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/archive/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
