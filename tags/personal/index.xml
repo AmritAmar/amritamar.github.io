@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on AMRIT AMAR</title>
+    <link>https://AmritAmar.github.io/tags/personal/</link>
+    <description>Recent content in Personal on AMRIT AMAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://AmritAmar.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Hand</title>
+      <link>https://AmritAmar.github.io/project/the-hand/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/the-hand/</guid>
+      <description>A IT Innovation project I made for a nationwide competition.</description>
+    </item>
+    
+  </channel>
+</rss>

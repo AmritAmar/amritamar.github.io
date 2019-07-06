@@ -6,26 +6,71 @@
     <description>Recent content in Tags on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://AmritAmar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://AmritAmar.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Android</title>
+      <link>https://AmritAmar.github.io/tags/android/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/tags/deep-learning/</guid>
+      <guid>https://AmritAmar.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://AmritAmar.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Cornell</title>
+      <link>https://AmritAmar.github.io/tags/cornell/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/tags/demo/</guid>
+      <guid>https://AmritAmar.github.io/tags/cornell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design</title>
+      <link>https://AmritAmar.github.io/tags/game-design/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://AmritAmar.github.io/tags/web/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PC</title>
+      <link>https://AmritAmar.github.io/tags/pc/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/tags/pc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arduino</title>
+      <link>https://AmritAmar.github.io/tags/arduino/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/tags/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://AmritAmar.github.io/tags/personal/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/tags/personal/</guid>
       <description></description>
     </item>
     

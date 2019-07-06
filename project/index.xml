@@ -6,54 +6,45 @@
     <description>Recent content in Projects on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://AmritAmar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>External Project</title>
-      <link>https://AmritAmar.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Stelliform</title>
+      <link>https://AmritAmar.github.io/project/stelliform/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/external-project/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+      <guid>https://AmritAmar.github.io/project/stelliform/</guid>
+      <description>An action, strategy mobile game my team made for CS 4152 (Advanced Game Design).</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://AmritAmar.github.io/project/internal-project-copy-2/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Viridian</title>
+      <link>https://AmritAmar.github.io/project/viridian/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/internal-project-copy-2/</guid>
-      <description>An example of using the in-built project page.</description>
+      <guid>https://AmritAmar.github.io/project/viridian/</guid>
+      <description>An action web game my team made for CS 4154 (Analytical Game Design).</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://AmritAmar.github.io/project/internal-project-copy-3/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>OutOfSync</title>
+      <link>https://AmritAmar.github.io/project/outofsync/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/internal-project-copy-3/</guid>
-      <description>An example of using the in-built project page.</description>
+      <guid>https://AmritAmar.github.io/project/outofsync/</guid>
+      <description>A strategic, action platformer my team made for CS 3152 (Beginners Game Design).</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://AmritAmar.github.io/project/internal-project-copy/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>The Hand</title>
+      <link>https://AmritAmar.github.io/project/the-hand/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/internal-project-copy/</guid>
-      <description>An example of using the in-built project page.</description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://AmritAmar.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://AmritAmar.github.io/project/internal-project/</guid>
-      <description>An example of using the in-built project page.</description>
+      <guid>https://AmritAmar.github.io/project/the-hand/</guid>
+      <description>A IT Innovation project I made for a nationwide competition.</description>
     </item>
     
   </channel>

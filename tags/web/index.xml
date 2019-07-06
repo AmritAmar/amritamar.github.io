@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on AMRIT AMAR</title>
+    <link>https://AmritAmar.github.io/tags/web/</link>
+    <description>Recent content in Web on AMRIT AMAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://AmritAmar.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Viridian</title>
+      <link>https://AmritAmar.github.io/project/viridian/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/viridian/</guid>
+      <description>An action web game my team made for CS 4154 (Analytical Game Design).</description>
+    </item>
+    
+  </channel>
+</rss>
