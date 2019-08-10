@@ -38,5 +38,14 @@
       <description>A strategic, action platformer my team made for CS 3152 (Beginners Game Design).</description>
     </item>
     
+    <item>
+      <title>Genetic Images</title>
+      <link>https://AmritAmar.github.io/project/geneticimages/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/geneticimages/</guid>
+      <description>A project I made for CS 4701 (Practicium in Artificial Intelligence).</description>
+    </item>
+    
   </channel>
 </rss>

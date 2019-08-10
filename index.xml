@@ -368,6 +368,84 @@
     </item>
     
     <item>
+      <title>Genetic Self-Driving Cars</title>
+      <link>https://AmritAmar.github.io/project/geneticselfdrivingcars/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/geneticselfdrivingcars/</guid>
+      <description>&lt;p&gt;This is a project I did to learn about Neural Networks and Genetic Algorithms. We create a neural network to drive a car and then use genetic algorithms to train and find the best weights for the neural network. The network takes in 6 inputs and outputs the acceleration and steering of the car.&lt;/p&gt;
+
+&lt;p&gt;Here, we see all the cars beginning to get initialized with a random neural network. They are pretty dumb.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticSelfDrivingCars/master/Gifs/FirstGen.gif&#34; alt=&#34;FG&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the editor, this is the information that cars get (as shown by the yellow lines).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticSelfDrivingCars/master/Gifs/NNView.gif&#34; alt=&#34;NN&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By generation 22, we have a car that can finish the whole track (albeit not smoothly)!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticSelfDrivingCars/master/Gifs/BestCar.gif&#34; alt=&#34;BC&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On average, it takes about 22 generations to train the neural network fully.&lt;/p&gt;
+
+&lt;p&gt;The neural network has 6 input nodes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;current speed&lt;/li&gt;
+&lt;li&gt;distance of closest obstacle from the left side (max 10m)&lt;/li&gt;
+&lt;li&gt;distance of closest obstacle from the right side (max 10m)&lt;/li&gt;
+&lt;li&gt;distance of closest obstacle from the front (max 10m)&lt;/li&gt;
+&lt;li&gt;distance of closest obstacle from the front-left side (max 10m)&lt;/li&gt;
+&lt;li&gt;distance of closest obstacle from the front-right side (max 10m)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is 1 hidden layer, consisting of 5 nodes. There is 1 output layer, consisting of 2 nodes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Acceleration (-1 to 1)&lt;/li&gt;
+&lt;li&gt;Steering (-1 to 1)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I use tanH as my activation function.&lt;/p&gt;
+
+&lt;p&gt;There are 3 main scripts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CarController: this is the script for a car. Has a neural network that drives the car.&lt;/li&gt;
+&lt;li&gt;CarManager: manager for the population of cars&lt;/li&gt;
+&lt;li&gt;NeuralNetwork: holds the neural network code&lt;/li&gt;
+&lt;li&gt;GeneticAlgorithmController: performs the selection process of the algorithm
+The program works as follows:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The input and hidden layer nodes have both a weight and a bias, that is randomly generated for the population of cars (default 10). They are then simulated as generation 1 on the race track. After all the cars crash or 60 seconds, the algorithm chooses the best 2 cars (based on displacement from starting point) and then creates the next generation of cars by combining the best 2 cars genes (randomly selecting between the 2 or a combination thereof). There is an option that allows us to keep the best 2 cars in the next generation or to generate all new cars in the population from the parents (i.e. the parents die). The next generation is then simulated and so on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Particle Simulation of Life</title>
+      <link>https://AmritAmar.github.io/project/particlesimulationoflife/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/particlesimulationoflife/</guid>
+      <description>&lt;p&gt;This is a C++ implementation of a particle system. The project simulates particles in a &amp;lsquo;box&amp;rsquo; and assigns random forces between different types of particles. Interestingly, certain behaviors arise that are &amp;lsquo;life-like&amp;rsquo; from these rules. The particles interact with each other arising in behaviors that mimic cell behavior.&lt;/p&gt;
+
+&lt;p&gt;The way this simulation works is that each particle type has a certain force associated with another particle type. Sometimes force can attract, sometimes it repels. The force is stronger the closer the two particles are, but after a certain point, they do not affect each other. The randomization of these forces leads to a number of interesting behaviors. I highly encourage people to create their own PSimulations!&lt;/p&gt;
+
+&lt;p&gt;In the example below, I simulate a &amp;lsquo;glider&amp;rsquo; world, where particles form gliders and fly around the boxed world. It&amp;rsquo;s mesmerising to see how a few simple rules between particles causes this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/AmritAmar/ParticleSimulationOfLife/raw/master/Glider%20Boxed.gif&#34; alt=&#34;Glider Boxed&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was inspired by this from an Evolution Class I took at Cornell where I read the theories of biologist Lynn Margulis. I was further inspired to create my own implementation from Jeffrey Ventrella&amp;rsquo;s &lt;a href=&#34;http://www.ventrella.com/Clusters/&#34; target=&#34;_blank&#34;&gt;Clusters&lt;/a&gt;, which has examples in both the browser and in augmented reality. Furthermore, I also drew inspiration from &lt;a href=&#34;http://zool33.uni-graz.at/artlife/PPS&#34; target=&#34;_blank&#34;&gt;this study&lt;/a&gt;. The main idea, from &lt;a href=&#34;https://evolution.berkeley.edu/evolibrary/article/history_24&#34; target=&#34;_blank&#34;&gt;Lynn Margulis&lt;/a&gt; is that all organisms naturally gravitate to other kinds of organisms, and likewise are repelled by different organisms. These particles experience attractions and repulsions with other particles of different colors. They cluster into social pods, or scatter and flee, often mimicking biological behaviors. Clusters shapeshift and exchange parts of their identities, much like the tiny organisms that came together in early evolution to form symbiotic unions.&lt;/p&gt;
+
+&lt;p&gt;In this example, I simulate a unboxed world that creates medium clusters. This leads to a roaming behaviour by these clusters all around the map!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/AmritAmar/ParticleSimulationOfLife/raw/master/Clusters%20Unboxed.gif&#34; alt=&#34;Medium Clusters Unboxed&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OutOfSync</title>
       <link>https://AmritAmar.github.io/project/outofsync/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
@@ -459,6 +537,80 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
 
   
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic Images</title>
+      <link>https://AmritAmar.github.io/project/geneticimages/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/geneticimages/</guid>
+      <description>
+
+&lt;p&gt;This is a project I made for my Artificial Intelligence Class under the Team &amp;ldquo;Real Intelligence&amp;rdquo;. It is a image generation program that uses primitive shapes to generate images using genetic algorithms.&lt;/p&gt;
+
+&lt;p&gt;Our intention was to complete a project exploring the concept of genetic algorithms within artificial intelligence. Genetic Algorithms use the concept of natural selection to find a minima to a function. In this case, the genetic algorithm tries to replicate a picture using only primitive shapes and tries to bring the generated picture as close to the real picture as possible.&lt;/p&gt;
+
+&lt;p&gt;To generate the image, we can adjust the number of shapes, the mutation rate, and the types/combinations of shapes to use in the generated image:
+- Circles (mutate the position, radius, color)
+- Ellipses (mutate the position, width, height, color)
+- Rectangles (mutate the position, width, height, color)
+- Pixels (n-pixels long squares, mutate the pixel position, color)
+- n-sided polygons&lt;/p&gt;
+
+&lt;p&gt;Our implementation focuses on using a single-parent. This means that during each generation, only one picture is used to create all the children. A parent is replaced when one of the children has a better fitness score (or worse, rather). Our fitness function work by comparing the child to the original image pixel by pixel.&lt;/p&gt;
+
+&lt;p&gt;The pseudocode for our genetic algorithm is as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Generate a random image based on user-defined configurations, mainly number of shapes and types of shapes to use. Every ‘individual’ image has a ‘DNA’ that is a collection of shapes. These shapes are randomly generated and are assigned random colors. This individual image’s fitness score is also calculated here.&lt;/li&gt;
+&lt;li&gt;We then generate a new image with a certain mutation rate. This new image will have random differences from the parent image (differences ranging from changing the shapes’ position or dimensions to changing the shapes’ color).&lt;/li&gt;
+&lt;li&gt;The new image is then compared with the original image. We then compare the new image’s fitness score with the parent’s fitness score. If the image’s fitness score is lower than that of the parent image (i.e, there is less error in this image, thus the new image is closer to the original picture than the parent image), then we update the parent image to be the new image. If the fitness score is higher than the parent’s score, then we simply keep the same parent for the next generation.&lt;/li&gt;
+&lt;li&gt;Go to part 2 and repeat until fitness score of the parent is 0.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;example-1-eiffel-tower&#34;&gt;Example 1: Eiffel Tower:&lt;/h3&gt;
+
+&lt;h4 id=&#34;target-picture&#34;&gt;Target Picture:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/eiffel2.png&#34; alt=&#34;EFOG&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;starting-the-algorithm&#34;&gt;Starting the Algorithm:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/Gifs/EiffelStart.gif&#34; alt=&#34;EF1&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;after-a-bit-of-time&#34;&gt;After a bit of time:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/Gifs/EiffelMedium.gif&#34; alt=&#34;EF2&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;after-a-long-time&#34;&gt;After a long time:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/Gifs/EiffelEnd.gif&#34; alt=&#34;EF3&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Notice how the sky gradient is captured by the generated picture, simply by the adjustment of the alpha of overlapping shapes!&lt;/p&gt;
+
+&lt;p&gt;Over time, the error in the generated images decreases. Of course, this happens over thousands of generations. As we used our program with a multitude of images, we noticed that some shapes converge to target images better than other shapes. For the full evaluation, check out our &lt;a href=&#34;https://drive.google.com/file/d/18TFZThbFswRllVY08Np8gfi7XHtzdqvD/view&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-2-mona-lisa&#34;&gt;Example 2: Mona Lisa:&lt;/h3&gt;
+
+&lt;h4 id=&#34;target-picture-1&#34;&gt;Target Picture:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/mona_lisa.jpg&#34; alt=&#34;EFOG&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;starting-the-algorithm-1&#34;&gt;Starting the Algorithm:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/Gifs/MonaBegin.gif&#34; alt=&#34;EF1&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;after-a-bit-of-time-1&#34;&gt;After a bit of time:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/Gifs/MonaMedium.gif&#34; alt=&#34;EF2&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;after-a-long-time-1&#34;&gt;After a long time:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeneticImages/master/Gifs/MonaEnd.gif&#34; alt=&#34;EF3&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Surprisingly, the algorithm seems to capture the background really well! Of course, facial features will take quite a while to develop as there is not much of a pixel difference from this image and one with facial features.&lt;/p&gt;
 </description>
     </item>
     

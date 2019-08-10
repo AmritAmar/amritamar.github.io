@@ -107,6 +107,28 @@
   </url>
   
   <url>
+    <loc>https://AmritAmar.github.io/tags/ai/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/project/geneticselfdrivingcars/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/tags/personal/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/project/particlesimulationoflife/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://AmritAmar.github.io/project/outofsync/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
@@ -118,13 +140,12 @@
   </url>
   
   <url>
-    <loc>https://AmritAmar.github.io/tags/arduino/</loc>
-    <lastmod>2014-09-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://AmritAmar.github.io/project/geneticimages/</loc>
+    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://AmritAmar.github.io/tags/personal/</loc>
+    <loc>https://AmritAmar.github.io/tags/arduino/</loc>
     <lastmod>2014-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

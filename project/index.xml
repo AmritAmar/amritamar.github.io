@@ -30,6 +30,24 @@
     </item>
     
     <item>
+      <title>Genetic Self-Driving Cars</title>
+      <link>https://AmritAmar.github.io/project/geneticselfdrivingcars/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/geneticselfdrivingcars/</guid>
+      <description>A project I made to explore neuroevolution.</description>
+    </item>
+    
+    <item>
+      <title>A Particle Simulation of Life</title>
+      <link>https://AmritAmar.github.io/project/particlesimulationoflife/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/particlesimulationoflife/</guid>
+      <description>A project I made to explore the theories by biologist Lynn Margulis.</description>
+    </item>
+    
+    <item>
       <title>OutOfSync</title>
       <link>https://AmritAmar.github.io/project/outofsync/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
@@ -39,12 +57,21 @@
     </item>
     
     <item>
+      <title>Genetic Images</title>
+      <link>https://AmritAmar.github.io/project/geneticimages/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/geneticimages/</guid>
+      <description>A project I made for CS 4701 (Practicium in Artificial Intelligence).</description>
+    </item>
+    
+    <item>
       <title>The Hand</title>
       <link>https://AmritAmar.github.io/project/the-hand/</link>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://AmritAmar.github.io/project/the-hand/</guid>
-      <description>A IT Innovation project I made for a nationwide competition.</description>
+      <description>An IT Innovation project I made for the Botho College ICT Challenge, a national competition.</description>
     </item>
     
   </channel>
