@@ -192,7 +192,17 @@
     &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/wCIhlz7Yv&#34; width=&#34;704&#34; height=&#34;404&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;The final part of this project involved combining the 2 parts, X and Y components, into 1 Complex Number component. This allows you to use only one overall circle to draw both parts of the transform as the complex number component captures both X and Y of the drawing. Try the final version out! In addition, use A/D to reduce/increase the number of epicycles used, and use W/S to increase/reduce the speed and see how it affects the fourier transform!&lt;/p&gt;
+&lt;p&gt;The final part of this project involved combining the 2 parts, X and Y components, into 1 Complex Number component. This allows you to use only one overall circle to draw both parts of the transform as the complex number component captures both X and Y of the drawing. Try the final version out!&lt;/p&gt;
+
+&lt;p&gt;In addition:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;use A/D to reduce/increase the number of epicycles used&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;use W/S to increase/reduce the speed&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;hellip; and see how it affects the fourier transform!&lt;/p&gt;
 
 &lt;div class=&#34;embed p5js script&#34; &gt;
     &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/YjvB9MTas&#34; width=&#34;704&#34; height=&#34;404&#34;&gt;&lt;/iframe&gt;
