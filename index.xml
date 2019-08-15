@@ -165,14 +165,14 @@
     </item>
     
     <item>
-      <title>Exploring and understanding Fourier Transforms using P5.js</title>
+      <title>Exploring and Understanding Fourier Transforms using p5.js</title>
       <link>https://AmritAmar.github.io/project/fouriertransforms/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://AmritAmar.github.io/project/fouriertransforms/</guid>
       <description>&lt;p&gt;This was a project I made after starting to learn javascript using &lt;a href=&#34;https://p5js.org/&#34; target=&#34;_blank&#34;&gt;p5.js&lt;/a&gt;. I really like the idea of how code can be used to visualize abstract math concepts (and show what exactly is happening in the background) and I hope to continue making more visualizations using code in the future. First a few references: I got interested in fourier transforms after watching &lt;a href=&#34;https://www.youtube.com/watch?v=spUNpyF58BY&#34; target=&#34;_blank&#34;&gt;3Blue1Brown&amp;rsquo;s video on the topic&lt;/a&gt;. I also saw this really &lt;a href=&#34;http://www.jezzamon.com/fourier/index.html&#34; target=&#34;_blank&#34;&gt;cool and interactive introduction&lt;/a&gt; to the topic by &lt;a href=&#34;https://twitter.com/jezzamonn&#34; target=&#34;_blank&#34;&gt;@jezzamonn&lt;/a&gt;. Finally, I learnt javascript (and most of this project) by watching &lt;a href=&#34;https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw&#34; target=&#34;_blank&#34;&gt;Daniel Shiffman&amp;rsquo;s Coding Challenges&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;What is a fourier transform? It&amp;rsquo;s simply a way of breaking apart a wave into individual components. This is most used in signal processing, specifically in the audio area. One of the coolest things you can do with fourier transforms is extract specific sounds and tune them however you like! So for example, if you had a music clip with a bit of fuzzy noise in the background, you can use a fourier transform on the clip and get the individual sound waves. After finding the one causing the fuzzy noise, you can remove it. Combine the remaining waves and voila - you have a sound clip without that fuzzu sound.&lt;/p&gt;
+&lt;p&gt;What is a fourier transform? It&amp;rsquo;s simply a way of breaking apart a wave into individual components. This is most used in signal processing, specifically in the audio area. One of the coolest things you can do with fourier transforms is extract specific sounds and tune them however you like! So for example, if you had a music clip with a bit of fuzzy noise in the background, you can use a fourier transform on the clip and get the individual sound waves. After finding the one causing the fuzzy noise, you can remove it. Combine the remaining waves and voila - you have a sound clip without that fuzzy sound.&lt;/p&gt;
 
 &lt;p&gt;Following Daniel Shiffman&amp;rsquo;s tutorial, I first started with visualizing the &lt;a href=&#34;https://en.wikipedia.org/wiki/Fourier_series&#34; target=&#34;_blank&#34;&gt;fourier series&lt;/a&gt;. I visualized the square wave and the sawtooth wave. You can adjust the sliders to increase/reduce the number of epicycles, and use the dropdown menu to change the wave in question.&lt;/p&gt;
 
@@ -209,6 +209,22 @@
 &lt;/div&gt;
 
 &lt;p&gt;I love the way code can be used to visualize math concepts. I hope to do more of these in the future, both to understand the math behind tricky concepts and to improve my javascript skills!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Tic Tac Toe!</title>
+      <link>https://AmritAmar.github.io/project/ultimatetictactoe/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/ultimatetictactoe/</guid>
+      <description>&lt;p&gt;This is an old project I recently ported over to JS. The original code for the project was written in Visual Basic 6, the first language I learnt. I returned to this project while learning JS (specifically using &lt;a href=&#34;https://p5js.org/&#34; target=&#34;_blank&#34;&gt;p5.js&lt;/a&gt;). It&amp;rsquo;s a 2 player game that adds an extra layer of thinking to the original game of tic tac toe.&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/x2dtFTAsH&#34; width=&#34;604&#34; height=&#34;804&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I hope to continue this by adding AI players!&lt;/p&gt;
 </description>
     </item>
     

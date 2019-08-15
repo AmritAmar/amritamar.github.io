@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Exploring and understanding Fourier Transforms using P5.js</title>
+      <title>Exploring and Understanding Fourier Transforms using p5.js</title>
       <link>https://AmritAmar.github.io/project/fouriertransforms/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://AmritAmar.github.io/project/fouriertransforms/</guid>
       <description>A fun mini-project I did to understand fourier transforms.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Tic Tac Toe!</title>
+      <link>https://AmritAmar.github.io/project/ultimatetictactoe/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://AmritAmar.github.io/project/ultimatetictactoe/</guid>
+      <description>A small game I made to learn more JS.</description>
     </item>
     
     <item>

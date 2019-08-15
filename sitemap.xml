@@ -84,6 +84,17 @@
   </url>
   
   <url>
+    <loc>https://AmritAmar.github.io/tags/game-design/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AmritAmar.github.io/project/ultimatetictactoe/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://AmritAmar.github.io/tags/android/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -91,12 +102,6 @@
   
   <url>
     <loc>https://AmritAmar.github.io/tags/cornell/</loc>
-    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AmritAmar.github.io/tags/game-design/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
