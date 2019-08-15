@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on AMRIT AMAR</title>
-    <link>http://amritamar.me/tags/ai/</link>
+    <link>https://amritamar.github.io/tags/ai/</link>
     <description>Recent content in AI on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://amritamar.me/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amritamar.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Genetic Self-Driving Cars</title>
-      <link>http://amritamar.me/project/geneticselfdrivingcars/</link>
+      <link>https://amritamar.github.io/project/geneticselfdrivingcars/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/project/geneticselfdrivingcars/</guid>
+      <guid>https://amritamar.github.io/project/geneticselfdrivingcars/</guid>
       <description>A project I made to explore neuroevolution.</description>
     </item>
     
     <item>
       <title>A Particle Simulation of Life</title>
-      <link>http://amritamar.me/project/particlesimulationoflife/</link>
+      <link>https://amritamar.github.io/project/particlesimulationoflife/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/project/particlesimulationoflife/</guid>
+      <guid>https://amritamar.github.io/project/particlesimulationoflife/</guid>
       <description>A project I made to explore the theories by biologist Lynn Margulis.</description>
     </item>
     
     <item>
       <title>Genetic Images</title>
-      <link>http://amritamar.me/project/geneticimages/</link>
+      <link>https://amritamar.github.io/project/geneticimages/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/project/geneticimages/</guid>
+      <guid>https://amritamar.github.io/project/geneticimages/</guid>
       <description>A project I made for CS 4701 (Practicium in Artificial Intelligence).</description>
     </item>
     

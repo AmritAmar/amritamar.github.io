@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AMRIT AMAR</title>
-    <link>http://amritamar.me/tags/</link>
+    <link>https://amritamar.github.io/tags/</link>
     <description>Recent content in Tags on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://amritamar.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amritamar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personal</title>
-      <link>http://amritamar.me/tags/personal/</link>
+      <link>https://amritamar.github.io/tags/personal/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/personal/</guid>
+      <guid>https://amritamar.github.io/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Game Design</title>
-      <link>http://amritamar.me/tags/game-design/</link>
+      <link>https://amritamar.github.io/tags/game-design/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/game-design/</guid>
+      <guid>https://amritamar.github.io/tags/game-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>http://amritamar.me/tags/android/</link>
+      <link>https://amritamar.github.io/tags/android/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/android/</guid>
+      <guid>https://amritamar.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cornell</title>
-      <link>http://amritamar.me/tags/cornell/</link>
+      <link>https://amritamar.github.io/tags/cornell/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/cornell/</guid>
+      <guid>https://amritamar.github.io/tags/cornell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>http://amritamar.me/tags/web/</link>
+      <link>https://amritamar.github.io/tags/web/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/web/</guid>
+      <guid>https://amritamar.github.io/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI</title>
-      <link>http://amritamar.me/tags/ai/</link>
+      <link>https://amritamar.github.io/tags/ai/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/ai/</guid>
+      <guid>https://amritamar.github.io/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PC</title>
-      <link>http://amritamar.me/tags/pc/</link>
+      <link>https://amritamar.github.io/tags/pc/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/pc/</guid>
+      <guid>https://amritamar.github.io/tags/pc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arduino</title>
-      <link>http://amritamar.me/tags/arduino/</link>
+      <link>https://amritamar.github.io/tags/arduino/</link>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/tags/arduino/</guid>
+      <guid>https://amritamar.github.io/tags/arduino/</guid>
       <description></description>
     </item>
     

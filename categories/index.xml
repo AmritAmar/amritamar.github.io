@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AMRIT AMAR</title>
-    <link>http://amritamar.me/categories/</link>
+    <link>https://amritamar.github.io/categories/</link>
     <description>Recent content in Categories on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://amritamar.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amritamar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

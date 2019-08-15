@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on AMRIT AMAR</title>
-    <link>http://amritamar.me/archive/</link>
+    <link>https://amritamar.github.io/archive/</link>
     <description>Recent content in Archives on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://amritamar.me/archive/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amritamar.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://amritamar.me/archive/slider/</link>
+      <link>https://amritamar.github.io/archive/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/slider/</guid>
+      <guid>https://amritamar.github.io/archive/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>http://amritamar.me/archive/hero/</link>
+      <link>https://amritamar.github.io/archive/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/hero/</guid>
+      <guid>https://amritamar.github.io/archive/hero/</guid>
       <description>The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)
 Build Anything with Widgets
 Star</description>
@@ -32,82 +32,82 @@ Star</description>
     
     <item>
       <title>Skills</title>
-      <link>http://amritamar.me/archive/skills/</link>
+      <link>https://amritamar.github.io/archive/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/skills/</guid>
+      <guid>https://amritamar.github.io/archive/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://amritamar.me/archive/experience/</link>
+      <link>https://amritamar.github.io/archive/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/experience/</guid>
+      <guid>https://amritamar.github.io/archive/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>http://amritamar.me/archive/accomplishments/</link>
+      <link>https://amritamar.github.io/archive/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/accomplishments/</guid>
+      <guid>https://amritamar.github.io/archive/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://amritamar.me/archive/posts/</link>
+      <link>https://amritamar.github.io/archive/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/posts/</guid>
+      <guid>https://amritamar.github.io/archive/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://amritamar.me/archive/projects/</link>
+      <link>https://amritamar.github.io/archive/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/projects/</guid>
+      <guid>https://amritamar.github.io/archive/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://amritamar.me/archive/people/</link>
+      <link>https://amritamar.github.io/archive/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/people/</guid>
+      <guid>https://amritamar.github.io/archive/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://amritamar.me/archive/talks/</link>
+      <link>https://amritamar.github.io/archive/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/talks/</guid>
+      <guid>https://amritamar.github.io/archive/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>http://amritamar.me/archive/featured/</link>
+      <link>https://amritamar.github.io/archive/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/featured/</guid>
+      <guid>https://amritamar.github.io/archive/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic Kickstart</title>
-      <link>http://amritamar.me/archive/demo/</link>
+      <link>https://amritamar.github.io/archive/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/demo/</guid>
+      <guid>https://amritamar.github.io/archive/demo/</guid>
       <description>Welcome to the Academic Kickstart template!
 Follow our Getting Started and Page Builder guides to easily personalize the template and then add your own content.
 For inspiration, check out the Markdown files which power the personal demo. The easiest way to publish your new site to the internet is with Netlify.
@@ -116,19 +116,19 @@ For inspiration, check out the Markdown files which power the personal demo. The
     
     <item>
       <title>Popular Topics</title>
-      <link>http://amritamar.me/archive/tags/</link>
+      <link>https://amritamar.github.io/archive/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/tags/</guid>
+      <guid>https://amritamar.github.io/archive/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://amritamar.me/archive/contact/</link>
+      <link>https://amritamar.github.io/archive/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://amritamar.me/archive/contact/</guid>
+      <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
     </item>
     
