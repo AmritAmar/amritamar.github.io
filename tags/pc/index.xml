@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PC on AMRIT AMAR</title>
-    <link>https://amritamar.me/tags/pc/</link>
+    <link>http://amritamar.me/tags/pc/</link>
     <description>Recent content in PC on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://amritamar.me/tags/pc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://amritamar.me/tags/pc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OutOfSync</title>
-      <link>https://amritamar.me/project/outofsync/</link>
+      <link>http://amritamar.me/project/outofsync/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/outofsync/</guid>
+      <guid>http://amritamar.me/project/outofsync/</guid>
       <description>A strategic, action platformer my team made for CS 3152 (Beginners Game Design).</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AMRIT AMAR</title>
-    <link>https://amritamar.me/</link>
+    <link>http://amritamar.me/</link>
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://amritamar.me/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://amritamar.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://amritamar.me/archive/slider/</link>
+      <link>http://amritamar.me/archive/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/slider/</guid>
+      <guid>http://amritamar.me/archive/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://amritamar.me/archive/hero/</link>
+      <link>http://amritamar.me/archive/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/hero/</guid>
+      <guid>http://amritamar.me/archive/hero/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Build &lt;strong&gt;Anything&lt;/strong&gt; with Widgets&lt;/p&gt;
@@ -36,82 +36,82 @@
     
     <item>
       <title>Skills</title>
-      <link>https://amritamar.me/archive/skills/</link>
+      <link>http://amritamar.me/archive/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/skills/</guid>
+      <guid>http://amritamar.me/archive/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://amritamar.me/archive/experience/</link>
+      <link>http://amritamar.me/archive/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/experience/</guid>
+      <guid>http://amritamar.me/archive/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://amritamar.me/archive/accomplishments/</link>
+      <link>http://amritamar.me/archive/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/accomplishments/</guid>
+      <guid>http://amritamar.me/archive/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://amritamar.me/archive/posts/</link>
+      <link>http://amritamar.me/archive/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/posts/</guid>
+      <guid>http://amritamar.me/archive/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://amritamar.me/archive/projects/</link>
+      <link>http://amritamar.me/archive/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/projects/</guid>
+      <guid>http://amritamar.me/archive/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://amritamar.me/archive/people/</link>
+      <link>http://amritamar.me/archive/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/people/</guid>
+      <guid>http://amritamar.me/archive/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://amritamar.me/archive/talks/</link>
+      <link>http://amritamar.me/archive/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/talks/</guid>
+      <guid>http://amritamar.me/archive/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://amritamar.me/archive/featured/</link>
+      <link>http://amritamar.me/archive/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/featured/</guid>
+      <guid>http://amritamar.me/archive/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic Kickstart</title>
-      <link>https://amritamar.me/archive/demo/</link>
+      <link>http://amritamar.me/archive/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/demo/</guid>
+      <guid>http://amritamar.me/archive/demo/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;Academic Kickstart&lt;/strong&gt; template!&lt;/p&gt;
 
 &lt;p&gt;Follow our &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;Getting Started&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34; target=&#34;_blank&#34;&gt;Page Builder&lt;/a&gt; guides to easily personalize the template and then &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;add your own content&lt;/a&gt;.&lt;/p&gt;
@@ -148,28 +148,28 @@
     
     <item>
       <title>Popular Topics</title>
-      <link>https://amritamar.me/archive/tags/</link>
+      <link>http://amritamar.me/archive/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/tags/</guid>
+      <guid>http://amritamar.me/archive/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://amritamar.me/archive/contact/</link>
+      <link>http://amritamar.me/archive/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/archive/contact/</guid>
+      <guid>http://amritamar.me/archive/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring and Understanding Fourier Transforms using p5.js</title>
-      <link>https://amritamar.me/project/fouriertransforms/</link>
+      <link>http://amritamar.me/project/fouriertransforms/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/fouriertransforms/</guid>
+      <guid>http://amritamar.me/project/fouriertransforms/</guid>
       <description>&lt;p&gt;This was a project I made after starting to learn javascript using &lt;a href=&#34;https://p5js.org/&#34; target=&#34;_blank&#34;&gt;p5.js&lt;/a&gt;. I really like the idea of how code can be used to visualize abstract math concepts (and show what exactly is happening in the background) and I hope to continue making more visualizations using code in the future. First a few references: I got interested in fourier transforms after watching &lt;a href=&#34;https://www.youtube.com/watch?v=spUNpyF58BY&#34; target=&#34;_blank&#34;&gt;3Blue1Brown&amp;rsquo;s video on the topic&lt;/a&gt;. I also saw this really &lt;a href=&#34;http://www.jezzamon.com/fourier/index.html&#34; target=&#34;_blank&#34;&gt;cool and interactive introduction&lt;/a&gt; to the topic by &lt;a href=&#34;https://twitter.com/jezzamonn&#34; target=&#34;_blank&#34;&gt;@jezzamonn&lt;/a&gt;. Finally, I learnt javascript (and most of this project) by watching &lt;a href=&#34;https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw&#34; target=&#34;_blank&#34;&gt;Daniel Shiffman&amp;rsquo;s Coding Challenges&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;What is a fourier transform? It&amp;rsquo;s simply a way of breaking apart a wave into individual components. This is most used in signal processing, specifically in the audio area. One of the coolest things you can do with fourier transforms is extract specific sounds and tune them however you like! So for example, if you had a music clip with a bit of fuzzy noise in the background, you can use a fourier transform on the clip and get the individual sound waves. After finding the one causing the fuzzy noise, you can remove it. Combine the remaining waves and voila - you have a sound clip without that fuzzy sound.&lt;/p&gt;
@@ -214,10 +214,10 @@
     
     <item>
       <title>Ultimate Tic Tac Toe!</title>
-      <link>https://amritamar.me/project/ultimatetictactoe/</link>
+      <link>http://amritamar.me/project/ultimatetictactoe/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/ultimatetictactoe/</guid>
+      <guid>http://amritamar.me/project/ultimatetictactoe/</guid>
       <description>&lt;p&gt;This is an old project I recently ported over to JS. The original code for the project was written in Visual Basic 6, the first language I learnt. I returned to this project while learning JS (specifically using &lt;a href=&#34;https://p5js.org/&#34; target=&#34;_blank&#34;&gt;p5.js&lt;/a&gt;). It&amp;rsquo;s a 2 player game that adds an extra layer of thinking to the original game of tic tac toe.&lt;/p&gt;
 
 &lt;div class=&#34;embed p5js script&#34; &gt;
@@ -230,10 +230,10 @@
     
     <item>
       <title>Stelliform</title>
-      <link>https://amritamar.me/project/stelliform/</link>
+      <link>http://amritamar.me/project/stelliform/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/stelliform/</guid>
+      <guid>http://amritamar.me/project/stelliform/</guid>
       <description>&lt;p&gt;&lt;em&gt;A star has fallen from the sky and the race is on to go claim it. However, the monsters around the area will not make it easy. Players can choose to play as a warrior, rogue, or wizard to blast through enemies by choosing powerful spells or attacks and casting them as quickly as possible while dodging enemy blows to stay alive.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Stelliform is a real-time action card game that relies on quick swiping mechanics, split-second decision making, and pre-game planning. The integration of a real-time strategy card game with a stimulating swipe mechanic makes Stelliform a distinct and unique mobile game. By combining strategic card-based elements and real-time action, we want players to step into the shoes of a spellcaster, defeating enemies by constructing a spell deck and planning and casting spells under time pressure.&lt;/p&gt;
@@ -275,8 +275,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/stelliform/gallery/a.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/stelliform/gallery/a_hu30ce87c738cffa646e22b2f11a6a3d3e_1640858_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/stelliform/gallery/a.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/stelliform/gallery/a_hu30ce87c738cffa646e22b2f11a6a3d3e_1640858_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -284,8 +284,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/stelliform/gallery/b.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/stelliform/gallery/b_hu2c7ebc69544b1ab6effe9d3d0b20ae77_1859154_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/stelliform/gallery/b.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/stelliform/gallery/b_hu2c7ebc69544b1ab6effe9d3d0b20ae77_1859154_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -293,8 +293,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/stelliform/gallery/c.jpg&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/stelliform/gallery/c_hub968039be8bef3bf8021b0affcd3609b_426512_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/stelliform/gallery/c.jpg&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/stelliform/gallery/c_hub968039be8bef3bf8021b0affcd3609b_426512_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -302,8 +302,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/stelliform/gallery/d.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/stelliform/gallery/d_hubef768a9f12543cbd1fdec8193f4c174_1090578_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/stelliform/gallery/d.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/stelliform/gallery/d_hubef768a9f12543cbd1fdec8193f4c174_1090578_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -311,8 +311,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/stelliform/gallery/e.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/stelliform/gallery/e_hu80fa136eb35823e713e76336e643c09e_959569_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/stelliform/gallery/e.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/stelliform/gallery/e_hu80fa136eb35823e713e76336e643c09e_959569_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -320,8 +320,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/stelliform/gallery/f.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/stelliform/gallery/f_hu05e4240577647107b63b243357e8ceb3_987068_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/stelliform/gallery/f.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/stelliform/gallery/f_hu05e4240577647107b63b243357e8ceb3_987068_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -329,8 +329,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/stelliform/gallery/g.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/stelliform/gallery/g_hu955c44cb1dfe6137d3bdf42c2f411bbb_1374568_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/stelliform/gallery/g.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/stelliform/gallery/g_hu955c44cb1dfe6137d3bdf42c2f411bbb_1374568_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -341,10 +341,10 @@
     
     <item>
       <title>Viridian</title>
-      <link>https://amritamar.me/project/viridian/</link>
+      <link>http://amritamar.me/project/viridian/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/viridian/</guid>
+      <guid>http://amritamar.me/project/viridian/</guid>
       <description>&lt;p&gt;&lt;em&gt;You&amp;rsquo;ve crashed on a mysterious world after getting caught in an explosion. You&amp;rsquo;ve lost the shards that allowed you to fly and explore the galaxy. Make your way through different environments to find the shards and escape from the planet!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Viridian is an action webgame made that relies on precise mechanics to make your way through a magical forest. Use your mouse to shoot and gain momentun as you travel through 3 biomes. Beware of shooting plants, however, as the forest is connected to each other and plants will actively try to defend their fellow flora.&lt;/p&gt;
@@ -385,8 +385,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/viridian/gallery/a.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/viridian/gallery/a_hu463d0b80dc2b1879ece1e58bc591e2fb_1272007_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/viridian/gallery/a.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/viridian/gallery/a_hu463d0b80dc2b1879ece1e58bc591e2fb_1272007_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -394,8 +394,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/viridian/gallery/b.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/viridian/gallery/b_hua97c29243ca57062aad9a3eee46f9fae_1268695_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/viridian/gallery/b.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/viridian/gallery/b_hua97c29243ca57062aad9a3eee46f9fae_1268695_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -403,8 +403,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/viridian/gallery/c.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/viridian/gallery/c_hu91fa153f56f3815e358d09132f3ea5b4_604682_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/viridian/gallery/c.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/viridian/gallery/c_hu91fa153f56f3815e358d09132f3ea5b4_604682_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -412,8 +412,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/viridian/gallery/d.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/viridian/gallery/d_hu0812b250b1d9974da690e1aed429203c_188992_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/viridian/gallery/d.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/viridian/gallery/d_hu0812b250b1d9974da690e1aed429203c_188992_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -421,8 +421,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/viridian/gallery/e.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/viridian/gallery/e_hu67edee6745ae5f14af4ebdee30affe49_904560_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/viridian/gallery/e.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/viridian/gallery/e_hu67edee6745ae5f14af4ebdee30affe49_904560_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -433,10 +433,10 @@
     
     <item>
       <title>Genetic Self-Driving Cars</title>
-      <link>https://amritamar.me/project/geneticselfdrivingcars/</link>
+      <link>http://amritamar.me/project/geneticselfdrivingcars/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/geneticselfdrivingcars/</guid>
+      <guid>http://amritamar.me/project/geneticselfdrivingcars/</guid>
       <description>&lt;p&gt;This is a project I did to learn about Neural Networks and Genetic Algorithms. We create a neural network to drive a car and then use genetic algorithms to train and find the best weights for the neural network. The network takes in 6 inputs and outputs the acceleration and steering of the car.&lt;/p&gt;
 
 &lt;p&gt;Here, we see all the cars beginning to get initialized with a random neural network. They are pretty dumb.&lt;/p&gt;
@@ -489,10 +489,10 @@ The program works as follows:&lt;/li&gt;
     
     <item>
       <title>A Particle Simulation of Life</title>
-      <link>https://amritamar.me/project/particlesimulationoflife/</link>
+      <link>http://amritamar.me/project/particlesimulationoflife/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/particlesimulationoflife/</guid>
+      <guid>http://amritamar.me/project/particlesimulationoflife/</guid>
       <description>&lt;p&gt;This is a C++ implementation of a particle system. The project simulates particles in a &amp;lsquo;box&amp;rsquo; and assigns random forces between different types of particles. Interestingly, certain behaviors arise that are &amp;lsquo;life-like&amp;rsquo; from these rules. The particles interact with each other arising in behaviors that mimic cell behavior.&lt;/p&gt;
 
 &lt;p&gt;The way this simulation works is that each particle type has a certain force associated with another particle type. Sometimes force can attract, sometimes it repels. The force is stronger the closer the two particles are, but after a certain point, they do not affect each other. The randomization of these forces leads to a number of interesting behaviors. I highly encourage people to create their own PSimulations!&lt;/p&gt;
@@ -511,10 +511,10 @@ The program works as follows:&lt;/li&gt;
     
     <item>
       <title>OutOfSync</title>
-      <link>https://amritamar.me/project/outofsync/</link>
+      <link>http://amritamar.me/project/outofsync/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/outofsync/</guid>
+      <guid>http://amritamar.me/project/outofsync/</guid>
       <description>&lt;p&gt;&lt;em&gt;You are a lab assistant who has accidentally shattered the fabric of reality and created numerous rifts between worlds. Time, gravity, and even color have been drained from the world. Now you must travel through these rifts, recover the scattered shards of
 space, and restore them to the riftss in order to fix the damage to reality.&lt;/em&gt;&lt;/p&gt;
 
@@ -558,8 +558,8 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/outofsync/gallery/a.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/outofsync/gallery/a_hude9a43581b792d18a7b7a457d5421db0_85400_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/outofsync/gallery/a.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/outofsync/gallery/a_hude9a43581b792d18a7b7a457d5421db0_85400_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -567,8 +567,8 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/outofsync/gallery/b.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/outofsync/gallery/b_huc0fadea28317b51dfd0645f4c32f7176_315784_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/outofsync/gallery/b.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/outofsync/gallery/b_huc0fadea28317b51dfd0645f4c32f7176_315784_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -576,8 +576,8 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/outofsync/gallery/c.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/outofsync/gallery/c_hu72dabc5fa29dc949485dfde7b1159ea4_201207_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/outofsync/gallery/c.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/outofsync/gallery/c_hu72dabc5fa29dc949485dfde7b1159ea4_201207_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -585,8 +585,8 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/outofsync/gallery/d.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/outofsync/gallery/d_hue157b7315240659e0bf29e78f04e32ea_323754_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/outofsync/gallery/d.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/outofsync/gallery/d_hue157b7315240659e0bf29e78f04e32ea_323754_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -594,8 +594,8 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://amritamar.me/project/outofsync/gallery/e.png&#34; &gt;
-  &lt;img src=&#34;https://amritamar.me/project/outofsync/gallery/e_hucbaae8edaeb8b2f5ce062b9ff763bf8e_383992_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://amritamar.me/project/outofsync/gallery/e.png&#34; &gt;
+  &lt;img src=&#34;http://amritamar.me/project/outofsync/gallery/e_hucbaae8edaeb8b2f5ce062b9ff763bf8e_383992_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -606,10 +606,10 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     <item>
       <title>Genetic Images</title>
-      <link>https://amritamar.me/project/geneticimages/</link>
+      <link>http://amritamar.me/project/geneticimages/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/geneticimages/</guid>
+      <guid>http://amritamar.me/project/geneticimages/</guid>
       <description>
 
 &lt;p&gt;This is a project I made for my Artificial Intelligence Class under the Team &amp;ldquo;Real Intelligence&amp;rdquo;. It is a image generation program that uses primitive shapes to generate images using genetic algorithms.&lt;/p&gt;
@@ -680,10 +680,10 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     <item>
       <title>The Hand</title>
-      <link>https://amritamar.me/project/the-hand/</link>
+      <link>http://amritamar.me/project/the-hand/</link>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/project/the-hand/</guid>
+      <guid>http://amritamar.me/project/the-hand/</guid>
       <description>&lt;p&gt;This is a hand that can be used to do a lot of things. The basic motive of the project is that the user will wear the control glove, and will be able to control the robotic hand using their movements. A close friend and I made a robotic animatronic hand that could potentially help save lives in the event of an accident in Mines, one of Botswana&amp;rsquo;s main industries.&lt;/p&gt;
 
 &lt;p&gt;There are many uses for this such as Space Exploration and in the Mining Industry. Instead of using AI, that can&amp;rsquo;t react to all situations in an environment, we can use robots, that are controlled by the user. Humans can react to sudden environmental changes and, using &amp;ldquo;The Hand&amp;rdquo;, they can improvise and adapt.&lt;/p&gt;
@@ -702,19 +702,19 @@ space, and restore them to the riftss in order to fix the damage to reality.&lt;
     
     <item>
       <title></title>
-      <link>https://amritamar.me/projects/</link>
+      <link>http://amritamar.me/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/projects/</guid>
+      <guid>http://amritamar.me/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AmritAmar</title>
-      <link>https://amritamar.me/experience/</link>
+      <link>http://amritamar.me/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.me/experience/</guid>
+      <guid>http://amritamar.me/experience/</guid>
       <description></description>
     </item>
     

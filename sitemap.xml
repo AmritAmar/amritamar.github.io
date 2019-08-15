@@ -3,197 +3,197 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amritamar.me/archive/slider/</loc>
+    <loc>http://amritamar.me/archive/slider/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/hero/</loc>
+    <loc>http://amritamar.me/archive/hero/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/skills/</loc>
+    <loc>http://amritamar.me/archive/skills/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/experience/</loc>
+    <loc>http://amritamar.me/archive/experience/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/accomplishments/</loc>
+    <loc>http://amritamar.me/archive/accomplishments/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/posts/</loc>
+    <loc>http://amritamar.me/archive/posts/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/projects/</loc>
+    <loc>http://amritamar.me/archive/projects/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/people/</loc>
+    <loc>http://amritamar.me/archive/people/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/talks/</loc>
+    <loc>http://amritamar.me/archive/talks/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/featured/</loc>
+    <loc>http://amritamar.me/archive/featured/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/demo/</loc>
+    <loc>http://amritamar.me/archive/demo/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/tags/</loc>
+    <loc>http://amritamar.me/archive/tags/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/contact/</loc>
+    <loc>http://amritamar.me/archive/contact/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/</loc>
+    <loc>http://amritamar.me/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/fouriertransforms/</loc>
+    <loc>http://amritamar.me/project/fouriertransforms/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/personal/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amritamar.me/project/</loc>
+    <loc>http://amritamar.me/tags/personal/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/</loc>
+    <loc>http://amritamar.me/project/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/game-design/</loc>
+    <loc>http://amritamar.me/tags/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amritamar.me/tags/game-design/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/ultimatetictactoe/</loc>
+    <loc>http://amritamar.me/project/ultimatetictactoe/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/android/</loc>
+    <loc>http://amritamar.me/tags/android/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/cornell/</loc>
+    <loc>http://amritamar.me/tags/cornell/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/stelliform/</loc>
+    <loc>http://amritamar.me/project/stelliform/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/viridian/</loc>
+    <loc>http://amritamar.me/project/viridian/</loc>
     <lastmod>2018-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/web/</loc>
+    <loc>http://amritamar.me/tags/web/</loc>
     <lastmod>2018-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/ai/</loc>
+    <loc>http://amritamar.me/tags/ai/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/geneticselfdrivingcars/</loc>
+    <loc>http://amritamar.me/project/geneticselfdrivingcars/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/particlesimulationoflife/</loc>
+    <loc>http://amritamar.me/project/particlesimulationoflife/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/outofsync/</loc>
+    <loc>http://amritamar.me/project/outofsync/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/pc/</loc>
+    <loc>http://amritamar.me/tags/pc/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/geneticimages/</loc>
+    <loc>http://amritamar.me/project/geneticimages/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/tags/arduino/</loc>
+    <loc>http://amritamar.me/tags/arduino/</loc>
     <lastmod>2014-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/project/the-hand/</loc>
+    <loc>http://amritamar.me/project/the-hand/</loc>
     <lastmod>2014-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amritamar.me/authors/admin/</loc>
+    <loc>http://amritamar.me/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/projects/</loc>
+    <loc>http://amritamar.me/projects/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/experience/</loc>
+    <loc>http://amritamar.me/experience/</loc>
   </url>
   
   <url>
-    <loc>https://amritamar.me/archive/</loc>
+    <loc>http://amritamar.me/archive/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/authors/</loc>
+    <loc>http://amritamar.me/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/categories/</loc>
+    <loc>http://amritamar.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.me/publication_types/</loc>
+    <loc>http://amritamar.me/publication_types/</loc>
     <priority>0</priority>
   </url>
   
