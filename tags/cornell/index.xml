@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cornell on AMRIT AMAR</title>
-    <link>https://AmritAmar.github.io/tags/cornell/</link>
+    <link>https://amritamar.me/tags/cornell/</link>
     <description>Recent content in Cornell on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://AmritAmar.github.io/tags/cornell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amritamar.me/tags/cornell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stelliform</title>
-      <link>https://AmritAmar.github.io/project/stelliform/</link>
+      <link>https://amritamar.me/project/stelliform/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/stelliform/</guid>
+      <guid>https://amritamar.me/project/stelliform/</guid>
       <description>An action, strategy mobile game my team made for CS 4152 (Advanced Game Design).</description>
     </item>
     
     <item>
       <title>Viridian</title>
-      <link>https://AmritAmar.github.io/project/viridian/</link>
+      <link>https://amritamar.me/project/viridian/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/viridian/</guid>
+      <guid>https://amritamar.me/project/viridian/</guid>
       <description>An action web game my team made for CS 4154 (Analytical Game Design).</description>
     </item>
     
     <item>
       <title>OutOfSync</title>
-      <link>https://AmritAmar.github.io/project/outofsync/</link>
+      <link>https://amritamar.me/project/outofsync/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/outofsync/</guid>
+      <guid>https://amritamar.me/project/outofsync/</guid>
       <description>A strategic, action platformer my team made for CS 3152 (Beginners Game Design).</description>
     </item>
     
     <item>
       <title>Genetic Images</title>
-      <link>https://AmritAmar.github.io/project/geneticimages/</link>
+      <link>https://amritamar.me/project/geneticimages/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/geneticimages/</guid>
+      <guid>https://amritamar.me/project/geneticimages/</guid>
       <description>A project I made for CS 4701 (Practicium in Artificial Intelligence).</description>
     </item>
     

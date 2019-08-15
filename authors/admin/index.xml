@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AMRIT AMAR</title>
-    <link>https://AmritAmar.github.io/authors/admin/</link>
+    <link>https://amritamar.me/authors/admin/</link>
     <description>Recent content on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://AmritAmar.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amritamar.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://AmritAmar.github.io/authors/admin/</link>
+      <link>https://amritamar.me/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/authors/admin/</guid>
+      <guid>https://amritamar.me/authors/admin/</guid>
       <description>I am currently a student at Cornell University majoring in computer science. My interests are in artificial intelligence, computational neuroscience, evolutionary algorithms, and more. I will be starting my Masters in Engineering in October 2019.
 I am also the corporate chair of ACSU, a top scholar achiever from Botswana, a pianist, and an avid gamer.</description>
     </item>

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Design on AMRIT AMAR</title>
-    <link>https://AmritAmar.github.io/tags/game-design/</link>
+    <link>https://amritamar.me/tags/game-design/</link>
     <description>Recent content in Game Design on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://AmritAmar.github.io/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amritamar.me/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ultimate Tic Tac Toe!</title>
-      <link>https://AmritAmar.github.io/project/ultimatetictactoe/</link>
+      <link>https://amritamar.me/project/ultimatetictactoe/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/ultimatetictactoe/</guid>
+      <guid>https://amritamar.me/project/ultimatetictactoe/</guid>
       <description>A small game I made to learn more JS.</description>
     </item>
     
     <item>
       <title>Stelliform</title>
-      <link>https://AmritAmar.github.io/project/stelliform/</link>
+      <link>https://amritamar.me/project/stelliform/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/stelliform/</guid>
+      <guid>https://amritamar.me/project/stelliform/</guid>
       <description>An action, strategy mobile game my team made for CS 4152 (Advanced Game Design).</description>
     </item>
     
     <item>
       <title>Viridian</title>
-      <link>https://AmritAmar.github.io/project/viridian/</link>
+      <link>https://amritamar.me/project/viridian/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/viridian/</guid>
+      <guid>https://amritamar.me/project/viridian/</guid>
       <description>An action web game my team made for CS 4154 (Analytical Game Design).</description>
     </item>
     
     <item>
       <title>OutOfSync</title>
-      <link>https://AmritAmar.github.io/project/outofsync/</link>
+      <link>https://amritamar.me/project/outofsync/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://AmritAmar.github.io/project/outofsync/</guid>
+      <guid>https://amritamar.me/project/outofsync/</guid>
       <description>A strategic, action platformer my team made for CS 3152 (Beginners Game Design).</description>
     </item>
     
