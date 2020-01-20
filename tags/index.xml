@@ -6,26 +6,44 @@
     <description>Recent content in Tags on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amritamar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Game Design</title>
+      <link>https://amritamar.github.io/tags/game-design/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Personal</title>
       <link>https://amritamar.github.io/tags/personal/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://amritamar.github.io/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Game Design</title>
-      <link>https://amritamar.github.io/tags/game-design/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <title>AI</title>
+      <link>https://amritamar.github.io/tags/ai/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://amritamar.github.io/tags/game-design/</guid>
+      <guid>https://amritamar.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cornell</title>
+      <link>https://amritamar.github.io/tags/cornell/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/tags/cornell/</guid>
       <description></description>
     </item>
     
@@ -39,29 +57,11 @@
     </item>
     
     <item>
-      <title>Cornell</title>
-      <link>https://amritamar.github.io/tags/cornell/</link>
-      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://amritamar.github.io/tags/cornell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Web</title>
       <link>https://amritamar.github.io/tags/web/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://amritamar.github.io/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://amritamar.github.io/tags/ai/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://amritamar.github.io/tags/ai/</guid>
       <description></description>
     </item>
     

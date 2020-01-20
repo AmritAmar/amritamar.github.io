@@ -6,7 +6,7 @@
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://amritamar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,86 @@
       
       <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hacking GeoScents</title>
+      <link>https://amritamar.github.io/project/geoscentshack/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/geoscentshack/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://geoscents.net/&#34; target=&#34;_blank&#34;&gt;GeoScents&lt;/a&gt; is a game that pits online users against each other in a challenge to guess where a given location is in a certain amount of time. It is a remake of an old game called GeoSense, made by a reddit user, &lt;a href=&#34;https://www.reddit.com/user/mattfel&#34; target=&#34;_blank&#34;&gt;u/mattfel&lt;/a&gt;. I heard about this game through a &lt;a href=&#34;https://www.reddit.com/r/WebGames/comments/ehs0ie/geoscents_an_online_world_geography_game/&#34; target=&#34;_blank&#34;&gt;r/webgames thread&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Despite memorizing capitals once in my life, it turns out that I am very bad at the game. After losing a few rounds really badly, I decided to use an afternoon to make a program to beat the game for me. There were 3 things needed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reading the place given to players&lt;/li&gt;
+&lt;li&gt;Looking up where that place is (latitude/longitude coordinates)&lt;/li&gt;
+&lt;li&gt;Moving the mouse to where the place is on the world map&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeoScentsHack/master/GeoScents3.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to use &lt;a href=&#34;https://pypi.org/project/pytesseract/&#34; target=&#34;_blank&#34;&gt;Python-tesseract&lt;/a&gt;, a wrapper for Google&amp;rsquo;s Tesseract OCR Engine. It can read image files and output the text on the images. To get the image itself, I used something called &lt;a href=&#34;https://pypi.org/project/PyAutoGUI/&#34; target=&#34;_blank&#34;&gt;PyAutoGUI&lt;/a&gt;, a library that automates GUI features, to capture a screenshot given coordinates on the screen. To get those coordinates, I needed keyboard input and thus required &lt;a href=&#34;https://pypi.org/project/pynput/&#34; target=&#34;_blank&#34;&gt;pynput&lt;/a&gt;, a library that controls input devices. When setting up the program, the user has to give coordinates on the screen of where the text of the location to look up will show up. Thus, we can get an image of the text and passing it into pytesseract, we get the location in string.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeoScentsHack/master/GeoScents2.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To look up where the place is, I used a libary called &lt;a href=&#34;https://pypi.org/project/geopy/&#34; target=&#34;_blank&#34;&gt;geopy&lt;/a&gt;. Geopy has &lt;a href=&#34;https://wiki.openstreetmap.org/wiki/Nominatim&#34; target=&#34;_blank&#34;&gt;OpenStreetMap&amp;rsquo;s Nominatum&lt;/a&gt; which allows me to get the latitude and longitude of a place given an address. Thus, all it needed was a simple function to look up the latitude/longitude of a given location. The lookup took less than 1 second in most cases as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeoScentsHack/master/GeoScents4.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, to move the mouse to the given latitude and longitude on the GeoScents map, I used PyAutoGUI. However I ran into a problem - the map given wasn&amp;rsquo;t entirely correct (the equator was much lower than the center of the map). Because this was a hack and not something that needed immense precision (and because GeoScents lets you guess the location within a radius), I decided to forego precision for convenience and instead allowed the user to input 2 known locations and extrapolated where the mouse would be given the scaling. I chose the equator and the Cape of Good Hope as the two places needed to be selected. Once the screen coordinates are received, the program automatically finds the conversion from latitude/longitude coordinates to pixels and thus converts the location coordinates to pixel coordinates on screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;geoscentsGUI.PNG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All of the above is wrapped up into a button (in a GUID made with TkInter) which when clicked performs the above 3 steps and automatically moves your cursor to the location on the map. You can adjust for precision based on your knowledge but I just click because I trust the program more than my highschool geography. The program works well when calibrated correctly (correct coordinates for text, equator, and Cape of Good Hope) and achives really high scores! There are a couple of times where the program fails because of smaller text and propagated errors from the calibration. Currently the program only works for the world map. In the future, I hope I&amp;rsquo;ll be able to make it work for all the maps on GeoScents.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/AmritAmar/GeoScentsHack/master/GeoScents5.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everybody GANs Now!</title>
+      <link>https://amritamar.github.io/project/dancegans/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/dancegans/</guid>
+      <description>&lt;p&gt;This is the final project my team and I worked on in graduate computer vision. I give a brief summary of what we did throughout the semester. Unfortunately, I can&amp;rsquo;t release the code as per Cornell regulations, but feel free to read the final paper on the project (linked above). All the following pictures were generated by computers!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;BalletStance.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our goal in this project is to see if it is possible to generate human poses using GANs. We draw inspiration from the paper, &lt;a href=&#34;http://www.cs.columbia.edu/~vondrick/tinyvideo/&#34; target=&#34;_blank&#34;&gt;Generating Videos with Scene Dynamics&lt;/a&gt;, which proposed a Generative Adversarial Network (GAN) for videos that untangle the scene&amp;rsquo;s foreground from the background, also known as VideoGAN. VideoGAN generated videos that, while not photo-realistic, display motions that were fairly reasonable for the scenes it was trained on. Specifically, we explored generating poses by understanding human dancing, by training our models on the &lt;a href=&#34;https://www.cc.gatech.edu/cpl/projects/dance/&#34; target=&#34;_blank&#34;&gt;Let’s Dance Dataset&lt;/a&gt;. We evaluated how well VideoGAN is able to output dance video and we proposed a new architecture called VectorGAN that takes the vector representations of people dancing and generates videos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;BalletMove1.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our intention in this project was to explore how computers can capture motion and generate it. By generating motion from a given frame, we can generate &amp;lsquo;future&amp;rsquo; motion. There are lots of applications for generating “future” video such as video understanding and simulations and animation (specifically in Rigging avatars to automatically create ranges of motion). Given a starting image, we wanted to make predictions about certain events. We used dancing because human motion is fluid and defined in dancing, and the dataset we used was clearly categorized.&lt;/p&gt;
+
+&lt;p&gt;We implemented the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;VideoGAN Architecture - 32 Frames of Video&lt;/li&gt;
+&lt;li&gt;Modified VideoGAN Architecture - 128 Frames of Video&lt;/li&gt;
+&lt;li&gt;VectorGAN Architecture with Random Noise - 32 Frames of Video&lt;/li&gt;
+&lt;li&gt;VectorGAN Architecture with Starting Vector - 32 Frames of Video&lt;/li&gt;
+&lt;li&gt;VectorGAN Architecture Composited Video (using previous experiment) - 128 Frames of Video&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;VideoGAN: following the inspiration paper, &lt;a href=&#34;http://www.cs.columbia.edu/~vondrick/tinyvideo/&#34; target=&#34;_blank&#34;&gt;Generating Videos with Scene Dynamics&lt;/a&gt;, we implemented their model and generated 32 frames of video. We then modified their architecture and generated 128 frames of video. Overall, from the output video, this model does well in making a figure of a human doing a dance move. However, it is very noisy. We expected this from a model that takes in raw pixels. This also happened in the second experiment where, even though the generated dance video was longer, it was still blurry. However, VideoGAN recognized people and captured some of their movements (blue is 32 frames, green is 128 frames).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;videogan32.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;videogan128.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;VectorGAN: using the dance video&amp;rsquo;s vector representation, we trained our model on the positions of human parts. Although VectorGAN had to be trained on more epochs to get something smooth, this method worked pretty well. The generated vector positions through time resemble a lot of the motion that ballet dancers do. It is interesting to note that the model figured out how the different limbs of humans connect to each other after about 100 epochs but needed much more to generate coherent movement. There are still a lot of places where the dancer’s limbs jerk, but we attribute this to the shortcomings of the dataset we used; not every single frame had a coherent human structure and some frames had nothing. We then tested the VectorGAN with an encoder added on to the beginning of the architecture that had the starting vectors of the input video. We then used this in the composited video experiment, where we generated 128 frame videos by feeding the last frame of a generated 32 frame video into the model 3 times (random noise, starting vector, and 128 frames in that order below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;vecgan32.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;vecgan232.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;vecgan128.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, VideoGAN and VectorGAN provide tangible results in generating videos of human pose. However, the frames generated VideoGAN were of very low resolution as computing images of stick figures is still very difficult. VectorGAN had much better results as we could animate together distinct key points to see the figure move more clearly. Our conclusion is that generating human pose is possible with VectorGAN, but we don’t have nearly enough training data. The original VideoGAN paper used over 35 million clips while we used only 84 videos for training our models. However, the results we got are promising. We only used the ballet dances from the dataset, but it would be interesting (and very time consuming) to see how the model does on other dances.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -493,19 +573,17 @@ The program works as follows:&lt;/li&gt;
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://amritamar.github.io/project/particlesimulationoflife/</guid>
-      <description>&lt;p&gt;This is a C++ implementation of a particle system. The project simulates particles in a &amp;lsquo;box&amp;rsquo; and assigns random forces between different types of particles. Interestingly, certain behaviors arise that are &amp;lsquo;life-like&amp;rsquo; from these rules. The particles interact with each other arising in behaviors that mimic cell behavior.&lt;/p&gt;
+      <description>&lt;p&gt;This is a JS implementation of a particle system. The project simulates particles in a &amp;lsquo;box&amp;rsquo; and assigns random forces between different types of particles. Interestingly, certain behaviors arise that are &amp;lsquo;life-like&amp;rsquo; from these rules. The particles interact with each other arising in behaviors that mimic cell behavior.&lt;/p&gt;
 
-&lt;p&gt;The way this simulation works is that each particle type has a certain force associated with another particle type. Sometimes force can attract, sometimes it repels. The force is stronger the closer the two particles are, but after a certain point, they do not affect each other. The randomization of these forces leads to a number of interesting behaviors. I highly encourage people to create their own PSimulations!&lt;/p&gt;
+&lt;p&gt;This simulation works by having each particle type have a certain force associated with another particle type. Sometimes the force can attract, sometimes it repels. The force is stronger the closer the two particles are, but after a certain point, they do not affect each other. The randomization of these forces leads to a number of interesting behaviors. You can play with the simulation in the widget below!&lt;/p&gt;
 
-&lt;p&gt;In the example below, I simulate a &amp;lsquo;glider&amp;rsquo; world, where particles form gliders and fly around the boxed world. It&amp;rsquo;s mesmerising to see how a few simple rules between particles causes this.&lt;/p&gt;
+&lt;p&gt;You can control the number of particles (and click to add more of a certain type), the interaction radius controls the distance at which particles interact with each other (a global variable here), and a few other options. Feel free to edit the code and try out other values in the &lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/-L9i8L96T&#34; target=&#34;_blank&#34;&gt;web code editor&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/AmritAmar/ParticleSimulationOfLife/raw/master/Glider%20Boxed.gif&#34; alt=&#34;Glider Boxed&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/-L9i8L96T&#34; width=&#34;724&#34; height=&#34;804&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;p&gt;I was inspired by this from an Evolution Class I took at Cornell where I read the theories of biologist Lynn Margulis. I was further inspired to create my own implementation from Jeffrey Ventrella&amp;rsquo;s &lt;a href=&#34;http://www.ventrella.com/Clusters/&#34; target=&#34;_blank&#34;&gt;Clusters&lt;/a&gt;, which has examples in both the browser and in augmented reality. Furthermore, I also drew inspiration from &lt;a href=&#34;http://zool33.uni-graz.at/artlife/PPS&#34; target=&#34;_blank&#34;&gt;this study&lt;/a&gt;. The main idea, from &lt;a href=&#34;https://evolution.berkeley.edu/evolibrary/article/history_24&#34; target=&#34;_blank&#34;&gt;Lynn Margulis&lt;/a&gt; is that all organisms naturally gravitate to other kinds of organisms, and likewise are repelled by different organisms. These particles experience attractions and repulsions with other particles of different colors. They cluster into social pods, or scatter and flee, often mimicking biological behaviors. Clusters shapeshift and exchange parts of their identities, much like the tiny organisms that came together in early evolution to form symbiotic unions.&lt;/p&gt;
-
-&lt;p&gt;In this example, I simulate a unboxed world that creates medium clusters. This leads to a roaming behaviour by these clusters all around the map!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/AmritAmar/ParticleSimulationOfLife/raw/master/Clusters%20Unboxed.gif&#34; alt=&#34;Medium Clusters Unboxed&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I was inspired by this from an Evolution Class I took at Cornell where I read the theories of biologist Lynn Margulis. I was further inspired to create my own implementation from Jeffrey Ventrella&amp;rsquo;s &lt;a href=&#34;http://www.ventrella.com/Clusters/&#34; target=&#34;_blank&#34;&gt;Clusters&lt;/a&gt;, which has examples in both the browser and in augmented reality. Furthermore, I also drew inspiration from &lt;a href=&#34;http://zool33.uni-graz.at/artlife/PPS&#34; target=&#34;_blank&#34;&gt;this study&lt;/a&gt; and &lt;a href=&#34;https://github.com/HackerPoet/&#34; target=&#34;_blank&#34;&gt;HackerPoet&lt;/a&gt; and his &lt;a href=&#34;https://www.youtube.com/watch?v=Z_zmZ23grXE&#34; target=&#34;_blank&#34;&gt;Particle-Life Video&lt;/a&gt;. The main idea, from &lt;a href=&#34;https://evolution.berkeley.edu/evolibrary/article/history_24&#34; target=&#34;_blank&#34;&gt;Lynn Margulis&lt;/a&gt; is that all organisms naturally gravitate to other kinds of organisms, and likewise are repelled by different organisms. These particles experience attractions and repulsions with other particles of different colors. They cluster into social pods, or scatter and flee, often mimicking biological behaviors. Clusters shapeshift and exchange parts of their identities, much like the tiny organisms that came together in early evolution to form symbiotic unions.&lt;/p&gt;
 </description>
     </item>
     
