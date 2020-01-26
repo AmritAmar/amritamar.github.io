@@ -6,7 +6,7 @@
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://amritamar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,20 @@
       
       <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual BrainFuck Interpreter</title>
+      <link>https://amritamar.github.io/project/bfvisualinterpreter/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/bfvisualinterpreter/</guid>
+      <description>&lt;p&gt;This is a JS implementation of a &lt;a href=&#34;https://en.wikipedia.org/wiki/Brainfuck&#34; target=&#34;_blank&#34;&gt;BrainFuck&lt;/a&gt; interpreter. I used P5JS to create this to understand how interpreters work and, more specifically, how this monstrosity of a programming language works. &lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/T7UagDjHq&#34; target=&#34;_blank&#34;&gt;Mess with the code here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/T7UagDjHq&#34; width=&#34;724&#34; height=&#34;754&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>

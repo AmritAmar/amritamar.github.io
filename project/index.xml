@@ -6,10 +6,19 @@
     <description>Recent content in Projects on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amritamar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Visual BrainFuck Interpreter</title>
+      <link>https://amritamar.github.io/project/bfvisualinterpreter/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/bfvisualinterpreter/</guid>
+      <description>An afternoon project to create an interpreter to understand an esoteric language.</description>
+    </item>
     
     <item>
       <title>Hacking GeoScents</title>
