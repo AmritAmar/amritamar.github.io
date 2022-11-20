@@ -6,7 +6,7 @@
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://amritamar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,101 @@
       
       <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Game Prototypes - Punch!</title>
+      <link>https://amritamar.github.io/project/gameprototypes_punch/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/gameprototypes_punch/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Prototypes is a series on mini game prototypes I&amp;rsquo;ve made exploring a particular concept or idea. These games are prototypes - rough, unpolished, and only testing gameplay. By creating these prototypes I hope to gain a better understanding of vaious game design elements and how game designers create memorable, exciting, and fun games.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Personally, I think pure turn-based games are a little bit draining to me. I love watching people play them and I love analyzing and understanding the meta behind them but playing them on my own feels a little lack-luster. I think it&amp;rsquo;s because I prefer seeing things resolve simultaneously. I love seeing the action happen because of my decisions - the tense moment of making a choice and waiting for the effect to play out on my screen is exhilirating and fun! This is the main reason behind making &amp;ldquo;Punch!&amp;rdquo;. I wanted to explore the feeling of making quick choices and hoping that you out-smarted your opponent.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/KMy4apE15&#34; target=&#34;_blank&#34;&gt;Play the game here!&lt;/a&gt; (hit the play button on the top left!)&lt;/p&gt;
+
+&lt;p&gt;Punch is a multiplayer game! Open the game with a friend (or across 2 browsers), ensure the &lt;strong&gt;&amp;lsquo;CLIENT_CODE&amp;rsquo;&lt;/strong&gt; is the same, along with the &lt;strong&gt;realtime&lt;/strong&gt; parameter set to what you&amp;rsquo;d like to try (true or false)! Then hit the &amp;lsquo;click me&amp;rsquo; button below the main game window. The main game is played by getting your fist to touch the enemy&amp;rsquo;s head. Do this by dragging on your body parts in a particular direction to add a &amp;lsquo;force&amp;rsquo; to it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;realtime = true: The game is played in real-time with actions happening continuosly. Control the joints of your robot one-by-one and be the first to win!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;punch_realtime.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;realtime = false: The game is played in 3 second intervals. You can control the joints of your robot and set each specific &amp;lsquo;force&amp;rsquo; individually! After 3 seconds, the forces resolve and you get to make your next choices!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;punch_turn.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A little touch on the technical details: I used &lt;a href=&#34;https://brm.io/matter-js/&#34; target=&#34;_blank&#34;&gt;matter.js&lt;/a&gt; as my physics engine and socket to communicate with a &lt;a href=&#34;https://glitch.com/&#34; target=&#34;_blank&#34;&gt;glitch&lt;/a&gt; server! I send over the positions and velocity of the character based on requests from the server and synchronize them across connected clients. Yes, this means that this game is &amp;lsquo;client-sided&amp;rsquo; and you &lt;em&gt;could&lt;/em&gt; cheat by overriding those values. Creating a client-sided game would have been easier but that&amp;rsquo;s a future project for another day.&lt;/p&gt;
+
+&lt;p&gt;From playtesting, one of the most interesting things to explore was &lt;a href=&#34;https://articles.starcitygames.com/articles/whos-the-beatdown/&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;who had the beatdown&amp;rsquo;&lt;/a&gt; (i.e. who had the advantage in a game). There is a steady flow to the game where players have to identify who is the one in the attacking (beat-down) spot and who is the one in the defending (control) spot. As these switched turn after turn, the concept of turns existing in real-time games makes sense - tempo is an important concept in several games. Performance and networking issues aside, playtesters thought it was a really fun game. A &lt;a href=&#34;https://en.wikipedia.org/wiki/Metagaming#Computer_games&#34; target=&#34;_blank&#34;&gt;meta&lt;/a&gt; developed where players would basically protect themselves completely and then send their robot flying at the opponent with the hands in front.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;meta.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Simple 3D Rendering using p5.js</title>
+      <link>https://amritamar.github.io/project/3draycastrendering/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/3draycastrendering/</guid>
+      <description>&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/rHQ8azreR&#34; width=&#34;722&#34; height=&#34;722&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This was a tiny project I made as a primer to explain rendering to a younger cousin of mine! In the sketch above, I cast rays from a randomly moving point and check whether there is a line-line intersection with any of the walls. If there is (and it is the closest), we use that point as an anchor to draw the ray to. This is basic version of how shadows and lighting is done in 2D games.&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/-Bn98qSOP&#34; width=&#34;704&#34; height=&#34;1500&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In the next sketch, I rendered the rays cast out to a simple 3D scene. Each ray create a &amp;lsquo;slice&amp;rsquo; of the view camera (there aren&amp;rsquo;t that many which is why it isn&amp;rsquo;t smooth). The box size and color brightness decreases with distance (using the inverse square law). On the top of the sketch window, you can change the FOV. I thought about making boxes instead of lines but I really like how the lines look with higher FOVs and create some weird illusions.&lt;/p&gt;
+
+&lt;p&gt;This was a simple look into writing a really quick renderer and simple ray tracer. During college I wrote a ray-tracing engine for an graphics project so doing this bare-bones implementation was pretty interesting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Game Prototypes - A Game of Chance</title>
+      <link>https://amritamar.github.io/project/gameprototypes_gameofchance/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/gameprototypes_gameofchance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Prototypes is a series on mini game prototypes I&amp;rsquo;ve made exploring a particular concept or idea. These games are prototypes - rough, unpolished, and only testing gameplay. By creating these prototypes I hope to gain a better understanding of vaious game design elements and how game designers create memorable, exciting, and fun games.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A game of chance is a card game about calculated risk. I envision this game being played in a dark setting - you vs the world. I&amp;rsquo;ve always been fascinated by repeated games like poker, where your success is measured over numerous plays rather than just a singular encounter. One of my favorite strategy games, Teamfight Tactics, is also like this. I think games with variance have high replayability (see &lt;a href=&#34;https://en.wikipedia.org/wiki/Roguelike&#34; target=&#34;_blank&#34;&gt;Roguelikes&lt;/a&gt;) and create really fun situations that challenge the player to (1) think about what they&amp;rsquo;re dealt and, more importantly, (2) how to make the best use of the situation. While this game isn&amp;rsquo;t that complicated, I wanted to recreate that feeling of high-stakes decision making.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/NOS76yXVo&#34; target=&#34;_blank&#34;&gt;Play the game here!&lt;/a&gt; (hit the play button on the top left!)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;gameofdeath.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How to Play:
+- In front of you are 9 cards. There are 8 numbered cards (2-9) and 1 death card.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Every time you opt to turn over a card, you wager 1 gold (this is what the &amp;ldquo;Current&amp;rdquo; means on the UI).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you hit a number card, continue! If you hit the death card, you will lose what you wagered + 2 gold.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you uncover everything, you win everything you wagered. If you pass the game, you will gain want you wagered - 2 gold.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In addition, there are power ups to help you! If you get 3 in a row or column, you can use a power up to help you.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;(+) powerup allows you to select any card that hasn&amp;rsquo;t been turned over and you will get a hint as to what the card could be above.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;(&amp;gt;) powerup allows you to select any uncovered card and reveals whether neighbor cards are higher or lower than the chosen card.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In addition, you can guess where the death card is at any point by hitting the &amp;ldquo;GUESS D&amp;rdquo; button. If you successfully guess, you will gain, in addition to what you wagered, 3 times the number of remaining cards. If you fail, you will lose what you wagered + 10 gold.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After having playtests with some of my friends, I got a lot of feedback on the concept. They said that once they got the hang of the game, &amp;lsquo;passing&amp;rsquo; after getting 4-5 cards correct will nearly always net you a win in the long run. They liked that the stakes only increased when you &amp;lsquo;committed&amp;rsquo; more to the game and that losing by getting unlucky didn&amp;rsquo;t feel bad. Some playtesters felt that &amp;lsquo;passing&amp;rsquo; shouldn&amp;rsquo;t even be a part of the game at all. When I tested the game by removing the &amp;lsquo;passing&amp;rsquo;, playtesters felt like they got really unlucky sometimes towards the end which killed their mood if it happened repeatedly. While they liked the powerups, almost all playtesters said that the (+) powerup felt too weak since you could technically get a (2+) on a 7 or 8 which didn&amp;rsquo;t really help them.&lt;/p&gt;
+
+&lt;p&gt;In the future, a more complete game would probably include a &amp;lsquo;bank&amp;rsquo; of money that you wager (so that there&amp;rsquo;s a concrete lose condition) along with more powerups and perhaps a bigger board (4x3 or 4x4).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -535,7 +630,7 @@ Another neural network received these images and decoded the image back to its v
 
 &lt;p&gt;Viridian is an action webgame made that relies on precise mechanics to make your way through a magical forest. Use your mouse to shoot and gain momentun as you travel through 3 biomes. Beware of shooting plants, however, as the forest is connected to each other and plants will actively try to defend their fellow flora.&lt;/p&gt;
 
-&lt;p&gt;The game was produced by Team LVI Studios, consisting of:&lt;/p&gt;
+&lt;p&gt;The game, featured on the frontpage of Newgrounds, was produced by Team LVI Studios, consisting of:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Amrit Amar &lt;em&gt;(Project Lead)&lt;/em&gt;&lt;/li&gt;

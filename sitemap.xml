@@ -55,13 +55,52 @@
   </url>
   
   <url>
-    <loc>https://amritamar.github.io/tags/ai/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+    <loc>https://amritamar.github.io/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amritamar.github.io/</loc>
+    <loc>https://amritamar.github.io/tags/game-design/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/project/gameprototypes_punch/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/tags/personal/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/project/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/tags/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/project/3draycastrendering/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/project/gameprototypes_gameofchance/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/tags/ai/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -73,26 +112,8 @@
   </url>
   
   <url>
-    <loc>https://amritamar.github.io/project/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amritamar.github.io/tags/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://amritamar.github.io/project/visualizinglanguageovernoise/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amritamar.github.io/tags/game-design/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -103,12 +124,6 @@
   <url>
     <loc>https://amritamar.github.io/project/circlepacking/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amritamar.github.io/tags/personal/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

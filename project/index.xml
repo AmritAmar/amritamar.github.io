@@ -6,10 +6,37 @@
     <description>Recent content in Projects on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amritamar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Game Prototypes - Punch!</title>
+      <link>https://amritamar.github.io/project/gameprototypes_punch/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/gameprototypes_punch/</guid>
+      <description>A multiplayer game about landing a punch before your opponent does.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Simple 3D Rendering using p5.js</title>
+      <link>https://amritamar.github.io/project/3draycastrendering/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/3draycastrendering/</guid>
+      <description>A fun mini-project to explore the bare-bones of ray tracing and rendering.</description>
+    </item>
+    
+    <item>
+      <title>Game Prototypes - A Game of Chance</title>
+      <link>https://amritamar.github.io/project/gameprototypes_gameofchance/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/gameprototypes_gameofchance/</guid>
+      <description>A card game you play when you face death itself.</description>
+    </item>
     
     <item>
       <title>Visualizing Language over Noise</title>
