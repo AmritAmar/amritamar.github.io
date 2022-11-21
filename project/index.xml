@@ -6,10 +6,19 @@
     <description>Recent content in Projects on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amritamar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marching Squares with p5.js</title>
+      <link>https://amritamar.github.io/project/marchingsquares/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/marchingsquares/</guid>
+      <description>A look at the marching squares algorithm.</description>
+    </item>
     
     <item>
       <title>Flocking Simulation using p5.js</title>

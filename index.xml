@@ -6,7 +6,7 @@
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://amritamar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,34 @@
       
       <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Marching Squares with p5.js</title>
+      <link>https://amritamar.github.io/project/marchingsquares/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/marchingsquares/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Marching_squares&#34; target=&#34;_blank&#34;&gt;marching squares algorithm&lt;/a&gt; is a computer graphics algorithm for creating contours/boundaries based on underlying grid values. It&amp;rsquo;s a really fascinating algorithm with tons of uses in procedural generation. It&amp;rsquo;s also really simple to implement! This implementation uses &lt;a href=&#34;https://en.wikipedia.org/wiki/OpenSimplex_noise&#34; target=&#34;_blank&#34;&gt;OpenSimplex Noise&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note: the page can be slow when loading these simulations so it&amp;rsquo;s better to look at them individually (and checkout the various settings you can tinker with): (1) &lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/N1bVTxCUP&#34; target=&#34;_blank&#34;&gt;non-interpolated&lt;/a&gt;, (2) &lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/haLE8EfC7&#34; target=&#34;_blank&#34;&gt;interpolated&lt;/a&gt;, (3) &lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/JfDKSnAHy&#34; target=&#34;_blank&#34;&gt;metaballs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/N1bVTxCUP&#34; width=&#34;722&#34; height=&#34;750&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I first started with a non-interpolated version of the algorithm to see all the possible boundaries in action. If you go into the &lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/N1bVTxCUP&#34; target=&#34;_blank&#34;&gt;editor&lt;/a&gt;, you can enable and disable various settings to see the distribution below or the squares. You can also take a snapshot of it and use it in 2D world generation (such as generating cave structures).&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/haLE8EfC7&#34; width=&#34;722&#34; height=&#34;750&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/haLE8EfC7&#34; target=&#34;_blank&#34;&gt;interpolated version&lt;/a&gt; makes everything look much smoother and natural. Using the interpolated version and adding shapes instead of noise, we can use the marching squares algorithm to generate &lt;a href=&#34;https://en.wikipedia.org/wiki/Metaballs&#34; target=&#34;_blank&#34;&gt;Metaballs&lt;/a&gt;!&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/JfDKSnAHy&#34; width=&#34;722&#34; height=&#34;750&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
