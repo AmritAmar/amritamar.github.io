@@ -6,7 +6,7 @@
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://amritamar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,44 @@
       
       <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Flocking Simulation using p5.js</title>
+      <link>https://amritamar.github.io/project/flockingsimulation/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/flockingsimulation/</guid>
+      <description>&lt;p&gt;This was a tiny project I made a couple of years ago in an graphics/simulation class to explore steering behaviours from &lt;a href=&#34;https://www.red3d.com/cwr/boids/&#34; target=&#34;_blank&#34;&gt;Craig Reynolds&amp;rsquo; Boids&lt;/a&gt;. I made it initially in C++ but ported it to p5.js. It&amp;rsquo;s a pretty cool simulation to show emergent behavior from simple rules; super mesmerizing to watch!&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/OIqXlIiqS&#34; width=&#34;722&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Use the sliders to adjust:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Alignment (how strongly the boids align the to the average direction of other boids in the vicinity)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cohesion (how strongly the boids go to the average position of other boids in the vicinity)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Separation (how strongly the boids avoid each other in the vicinity)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2D Inverse Kinematics</title>
+      <link>https://amritamar.github.io/project/inversekinematics/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/inversekinematics/</guid>
+      <description>&lt;p&gt;This was a tiny project to mimic something a project I did in college in a Robotics class. We used &lt;a href=&#34;https://en.wikipedia.org/wiki/Inverse_kinematics&#34; target=&#34;_blank&#34;&gt;inverse kinematics&lt;/a&gt; to derive the required matrices and then the forces needed to move a robotic arm. This is a much simpler implementation in 2D. Stuff like this can be used for procedural animations (applying IK to rigging bones) and a ton of other things to create very realistic motion.&lt;/p&gt;
+
+&lt;div class=&#34;embed p5js script&#34; &gt;
+    &lt;iframe src=&#34;https://editor.p5js.org/AmritAmar/embed/W8XyUUy54&#34; width=&#34;722&#34; height=&#34;750&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>

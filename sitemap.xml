@@ -56,8 +56,36 @@
   
   <url>
     <loc>https://amritamar.github.io/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/project/flockingsimulation/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/tags/personal/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/project/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/tags/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amritamar.github.io/project/inversekinematics/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,24 +97,6 @@
   <url>
     <loc>https://amritamar.github.io/project/gameprototypes_punch/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amritamar.github.io/tags/personal/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amritamar.github.io/project/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amritamar.github.io/tags/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -6,10 +6,28 @@
     <description>Recent content in Projects on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amritamar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flocking Simulation using p5.js</title>
+      <link>https://amritamar.github.io/project/flockingsimulation/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/flockingsimulation/</guid>
+      <description>A mini-project to explore steering behaviors.</description>
+    </item>
+    
+    <item>
+      <title>2D Inverse Kinematics</title>
+      <link>https://amritamar.github.io/project/inversekinematics/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/inversekinematics/</guid>
+      <description>A mini-project to look at simplified inverse kinematics.</description>
+    </item>
     
     <item>
       <title>Game Prototypes - Punch!</title>
