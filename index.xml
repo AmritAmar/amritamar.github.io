@@ -6,7 +6,7 @@
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://amritamar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,30 @@
       
       <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Game Prototypes - Tile Fight</title>
+      <link>https://amritamar.github.io/project/gameprototypes_tilefight/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/gameprototypes_tilefight/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Prototypes is a series on mini game prototypes I&amp;rsquo;ve made exploring a particular concept or idea. These games are prototypes - rough, unpolished, and only testing gameplay. By creating these prototypes I hope to gain a better understanding of vaious game design elements and how game designers create memorable, exciting, and fun games.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Tile Punch is a fast-paced &amp;lsquo;card&amp;rsquo; game about studying the opponent and laying out a board that resolves in real-time. You have think fast and provide an answer to your opponent&amp;rsquo;s moves before they execute it. The catch is that you get to see their moves laid out at the beginning of a &amp;lsquo;pattern&amp;rsquo;. At the end of it, the opponent will do something new and now you have to react to a new pattern!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://editor.p5js.org/AmritAmar/sketches/jJ4rbCXQy&#34; target=&#34;_blank&#34;&gt;Play the game here!&lt;/a&gt; (hit the play button on the top left - change the enemy type by going to line 93 and changing the assignment)&lt;/p&gt;
+
+&lt;p&gt;The game has 3 moves: A (attack 2), D (defend), H (heal 1). Every &amp;lsquo;evaluation phase&amp;rsquo;, an enemy move and a player move is calculated on the board. This evaluation travels right at a fixed interval, consuming player moves. The player can choose 2 randomly generated tiles to put on the board to combat the enemy, planning ahead for future mechanics.&lt;/p&gt;
+
+&lt;p&gt;In the fight below, I am fighting vs SLIME. Slime&amp;rsquo;s move set is simple, it had 3 A&amp;rsquo;s in a row, and 3 D&amp;rsquo;s in a row. At the end of a pattern, it switches. This means I should have a tile to defend on the triple attacks and use the empty tile slots to attack. Defending against nothing doesn&amp;rsquo;t hurt me so I can use that slot to heal. Alternatively we can attack each other when we both have A&amp;rsquo;s in a column but because SLIME starts at 20 HP vs me at 15 HP, I need to close the gap first!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;tilefight_slime.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On a technical note: I tried to make the code as friendly to customize as possible. This means enemies have a function that the code calls to decide their next moves based on the previous enemy moves, the player moves, and the move history. This made it fairly easy to add new opponents as ideas came along and allow my friends to add their own enemies to fight against.&lt;/p&gt;
+
+&lt;p&gt;A lot of playtesters liked this one. The frantic decisions to make against a ticking clock is fun and challenging. One main problem playtesters brought up is that because the game moves fast and figuring out the move pattern of the enemy takes time, they often died the first time before they could succeed rather than figuring it out during the fight. One idea to fix this would be to list the previous enemy moves above the enemy to perhaps make pattern recognition easier. One thing the playtesters brought up is that the beginning of a pattern is always the hardest to react to since you don&amp;rsquo;t get enough time to react to the first few columns.&lt;/p&gt;
+</description>
     </item>
     
     <item>
