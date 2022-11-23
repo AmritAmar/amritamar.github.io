@@ -6,7 +6,7 @@
     <description>Recent content on AMRIT AMAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://amritamar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,45 @@
       
       <guid>https://amritamar.github.io/archive/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Unity ML Agents - Move to Goal</title>
+      <link>https://amritamar.github.io/project/unitymlagents_movetogoal/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/unitymlagents_movetogoal/</guid>
+      <description>&lt;p&gt;I only recently learned about &lt;a href=&#34;https://github.com/Unity-Technologies/ml-agents&#34; target=&#34;_blank&#34;&gt;Unity&amp;rsquo;s ML Agents Library&lt;/a&gt; - an open-source project to enable Unity projects to serve as environments for reinforcement learning algorithms. This is pretty cool because when I first started using Unity for AI, I had to implement the neural network itself and I used genetic algorithms to train my agents. With this project, training autonomous agents has never been easier with provided implementations of common RL algorithms along with a python interface to train!&lt;/p&gt;
+
+&lt;p&gt;The first step was setting up my environment. I created a new Unity project and then created a virtual environment to get all the python dependencies, which included pytorch and mlagents. Everything worked pretty smoothly - I was able to use my RTX 3080 for training. I then imported the Unity ML Agents module through Unity, it was super simple. After that, I created a basic environment modelled after Unity&amp;rsquo;s own example: Move to Goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;m2g_1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a simple setup - an environment with a simple cube agent and a sphere goal surrounded by walls. The agent&amp;rsquo;s motive is simple: move to the goal without touching the wall. I created a script for the agent called &amp;ldquo;MoveToGoalAgent&amp;rdquo; and, to my surprise, it turns out that you don&amp;rsquo;t need to inherit from MonoBehavior, but rather Agents. After reading through the docs, there were 4 key things I had to handle:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Observation (what does the agent see to make a decision)&lt;/li&gt;
+&lt;li&gt;Decision (the decision itself - handled by the library)&lt;/li&gt;
+&lt;li&gt;Action (how the decision translates to environment actions)&lt;/li&gt;
+&lt;li&gt;Reward (do we reward the agent for the actions it took)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;m2g_2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While I thought about several ways to implement the observation, I decided to stick to providing the agent&amp;rsquo;s location and the goal&amp;rsquo;s location, which is a total of 6 inputs. The ml-agents library gives you the option of using continuous or discrete values for outputs. For this project, 2 continuous variables were enough to specify movement in the x or z directions. After testing passing and failing cases, I trained the environment in parallel with 9 separate instances.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;m2g_3.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s pretty cool to see how they train over time. The red indicates that the agent failed (by hitting a wall) in the last iteration while green indicates the agent got to the goal. After about 2 minutes, I saw greens across the boards. However, ML isn&amp;rsquo;t just about training specific tasks - it&amp;rsquo;s about effectively training behaviours. My agent only knew how to get to the goal in one way. Move the goal elsewhere and it all went downhill.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;m2g_4.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s interesting to see how the position of the goal is actively affecting the neural network. To solve this, I randomized the starting and ending positions of the goal and the agent. I then re-trained the neural network and after a few minutes, loaded the trained neural network into Unity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;m2g_5.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It worked really well! There were some boards that had issues during the validation but overall I think it was a success! I am looking forward to using this library for more complex RL tasks.&lt;/p&gt;
+</description>
     </item>
     
     <item>

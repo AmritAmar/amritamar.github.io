@@ -6,10 +6,19 @@
     <description>Recent content in Projects on AMRIT AMAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amritamar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exploring Unity ML Agents - Move to Goal</title>
+      <link>https://amritamar.github.io/project/unitymlagents_movetogoal/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://amritamar.github.io/project/unitymlagents_movetogoal/</guid>
+      <description>An exploratory project to take a look at Unity&amp;rsquo;s ML Agent module.</description>
+    </item>
     
     <item>
       <title>Game Prototypes - Tile Fight</title>
